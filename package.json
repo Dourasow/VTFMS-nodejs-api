@@ -1,0 +1,11 @@
+{
+  "name": "vtfms-node-api",
+  "version": "1.0.0",
+  "description": "Node API for VTFMS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdurahmane Sow",
+  "license": "ISC"
+}
